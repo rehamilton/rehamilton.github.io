@@ -2,7 +2,7 @@ body {
     color: #222222;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
-    background-color: coral;
+    background-color: blanchedalmond;
 }
 
 .content-footer,
@@ -22,7 +22,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: black;
 }
 
 .masthead-heading {
